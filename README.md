@@ -1,5 +1,8 @@
 # Data Exploration, Cleaning and Wrangling with Python
 
+This is a project which loads a survey report file and then transforms the data set into clean, usable insights for visualization 
+
+
 _Data source_: 
 https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DA0321EN-SkillsNetwork/LargeData/m1_survey_data.csv
 
